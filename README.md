@@ -4,7 +4,7 @@ This is the customer review page of the created website for swag of India. I jus
 
 Important info: The page loads little slower so please wait for few minutes.
 
-please check my webpage here : 
+please check my webpage here : https://vigneshmanimaran.github.io/customer-review-page-update.github.io/
 
 Here I attched the screenshots of the webpage
 
